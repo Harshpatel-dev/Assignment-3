@@ -1,0 +1,15 @@
+D:\.NET\CollageWork\Assignment 3\A\obj\Debug\net6.0\A.csproj.AssemblyReference.cache
+D:\.NET\CollageWork\Assignment 3\A\obj\Debug\net6.0\A.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\CollageWork\Assignment 3\A\obj\Debug\net6.0\A.AssemblyInfoInputs.cache
+D:\.NET\CollageWork\Assignment 3\A\obj\Debug\net6.0\A.AssemblyInfo.cs
+D:\.NET\CollageWork\Assignment 3\A\obj\Debug\net6.0\A.csproj.CoreCompileInputs.cache
+D:\.NET\CollageWork\Assignment 3\A\bin\Debug\net6.0\A.exe
+D:\.NET\CollageWork\Assignment 3\A\bin\Debug\net6.0\A.deps.json
+D:\.NET\CollageWork\Assignment 3\A\bin\Debug\net6.0\A.runtimeconfig.json
+D:\.NET\CollageWork\Assignment 3\A\bin\Debug\net6.0\A.dll
+D:\.NET\CollageWork\Assignment 3\A\bin\Debug\net6.0\ref\A.dll
+D:\.NET\CollageWork\Assignment 3\A\bin\Debug\net6.0\A.pdb
+D:\.NET\CollageWork\Assignment 3\A\obj\Debug\net6.0\A.dll
+D:\.NET\CollageWork\Assignment 3\A\obj\Debug\net6.0\ref\A.dll
+D:\.NET\CollageWork\Assignment 3\A\obj\Debug\net6.0\A.pdb
+D:\.NET\CollageWork\Assignment 3\A\obj\Debug\net6.0\A.genruntimeconfig.cache
